@@ -1,0 +1,3 @@
+Ethernet es una tecnología de red de área local (LAN, por sus siglas en inglés) que se utiliza comúnmente para conectar dispositivos en una red local, como computadoras, impresoras, enrutadores, y otros dispositivos electrónicos. Fue desarrollada originalmente por Xerox en la década de 1970 y desde entonces se ha convertido en una de las tecnologías de red más ampliamente utilizadas en el mundo.
+
+La tecnología Ethernet se basa en un estándar definido por el Instituto de Ingenieros Eléctricos y Electrónicos (IEEE) en la familia de estándares 802.3. Utiliza un sistema de acceso al medio compartido, lo que significa que varios dispositivos pueden comunicarse en la misma red compartiendo el mismo canal de comunicación.

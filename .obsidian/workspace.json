@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "5da02c9f0ee1521f",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe5bdf17230d7767",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa54747bc6d34fdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apuntes Cursos/Linux/Terminal/Gestión de Archivos.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e4c31edfce73d9b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "05f76ca9acc6ccdd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf5526d60353aa3a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "763c02c930666bf8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "312abd323ee73ff0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f1c4d8bbbce0a97e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e88a86d4b8b2a9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7accc7900951d586",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Apuntes Cursos/Linux/Terminal/Gestión de Archivos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cf02d52ae0228107",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Apuntes Cursos/Linux/Terminal/Gestión de Archivos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "92deedf12c5ba93e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ddf7c7f5c7452cd3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Apuntes Cursos/Linux/Terminal/Gestión de Archivos.md"
+              }
+            }
+          },
+          {
+            "id": "630b2c752a1eb03e",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "ca11671060a82787",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false
+    }
+  },
+  "active": "fa54747bc6d34fdd",
+  "lastOpenFiles": [
+    "Apuntes Cursos/Introducción a la Ciberseguridad/Sistemas De Detección y Prevención.md",
+    "Apuntes Cursos/Introducción a la Ciberseguridad/Síntomas y Tipos De Malware.md",
+    "Apuntes Cursos/Introducción a la Ciberseguridad/Cubo de  McCumber.md",
+    "Recursos-Imágenes/arp -a.png",
+    "Recursos-Imágenes/comando file.png",
+    "Recursos-Imágenes/comando ls -a.png",
+    "Recursos-Imágenes/comando cd.png",
+    "Recursos-Imágenes/capsula.png",
+    "Recursos-Imágenes/IDS.png",
+    "Recursos-Imágenes/estrella-red.png",
+    "Recursos-Imágenes/encapsulamiento.png",
+    "Recursos-Imágenes/encabezado-TCP.png",
+    "Recursos-Imágenes/encabezado-ARP.png",
+    "Apuntes Cursos/Linux/Básico/Estructura de Directorios.md",
+    "Apuntes Cursos/Redes/Transmisión de Datos/Modelo OSI.md",
+    "Apuntes Cursos/Introducción a la Ciberseguridad/Tipos de Firewall.md",
+    "Apuntes Cursos/Introducción a la Ciberseguridad/Tipos de Ataques.md",
+    "Apuntes Cursos/Linux/Básico/Qué es Linux.md",
+    "Apuntes Cursos/Redes/Routing/NAT.md",
+    "Apuntes Cursos/Linux/Terminal/Gestión de Archivos.md",
+    "Prueba.md",
+    "Apuntes Cursos/Linux/Terminal/Gestión de Directorios.md",
+    "Apuntes Cursos/Redes/Subneteo/Subnetting.md",
+    "Apuntes Cursos/Redes/Subneteo/Máscaras de Subred.md",
+    "Apuntes Cursos/Redes/Routing/Port Forwarding.md",
+    "Apuntes Cursos/Linux/Terminal/Qué es la Terminal.md",
+    "OZ.md",
+    "Apuntes Cursos/Linux/Básico",
+    "Apuntes Cursos/Linux/Terminal",
+    "Apuntes Cursos/Redes/Protocolos/Qué es un Protocolo.md",
+    "Apuntes Cursos/Redes/Routing/Port Triggering.md",
+    "Apuntes Cursos/Redes/Conceptos Básicos/Ancho de Banda.md",
+    "Apuntes Cursos/Redes/Conceptos Básicos/Switch vs Hub.md",
+    "Apuntes Cursos/Redes/Conceptos Básicos/Tipos de Redes.md",
+    "Apuntes Cursos/Redes/Protocolos/Protocolo DHCP.md",
+    "Apuntes Cursos/Redes/Direccionamiento/Dirección IP.md",
+    "Apuntes Cursos/Redes/Transmisión de Datos/Encapsulamiento.md",
+    "Apuntes Cursos/Redes/Routing",
+    "Apuntes Cursos/Redes/Subneteo",
+    "Apuntes Cursos/Redes/Transmisión de Datos",
+    "Apuntes Cursos/Redes/Protocolos",
+    "Apuntes Cursos/Redes/Direccionamiento",
+    "Apuntes Cursos/Redes/Ethernet",
+    "Apuntes Cursos/Redes/Conceptos Básicos",
+    "Recursos-Imágenes"
+  ]
+}
