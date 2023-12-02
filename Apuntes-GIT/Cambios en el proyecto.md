@@ -3,6 +3,8 @@ Cuando realizamos cambios en el proyecto con un repositorio ya inicializado pode
 ## Comando git status
 Nos mostrará por pantalla el estado del proyecto, si hay cambios en el proyecto que no se han enviado a la etapa de stage (archivos borrados, modificados, agregados) nos dará un listado de estos.
 
+Podemos agregar el argumento -s para que no sea tan detallado.
+
 ![[git-STATUS.png]]
 
 # Archivo modificado/eliminado del proyecto
