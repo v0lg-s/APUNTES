@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiLinux",
+      "SiGit",
       "LiImage",
       "LiPackageCheck",
-      "LiBook",
-      "SiDiagramsdotnet",
-      "SiHandshakeProtocol"
+      "LiBook"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -57,22 +57,23 @@
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true
   },
-  "Apuntes Cursos/Redes": {
+  "Apuntes-GIT": "SiGit",
+  "Apuntes-Cursos": "LiBook",
+  "Apuntes-Cursos/Introducción a la Ciberseguridad": "SiSpringsecurity",
+  "Apuntes-Cursos/Linux": "SiLinux",
+  "Apuntes-Cursos/Redes": {
     "iconName": "LiNetwork",
     "inheritanceIcon": "LiNetwork"
   },
-  "Apuntes Cursos": "LiGraduationCap",
-  "Apuntes Cursos/Introducción a la Ciberseguridad": "SiSpringsecurity",
-  "Recursos-Imágenes": "LiImage",
-  "Apuntes Cursos/Redes/Conceptos Básicos": "LiBook",
-  "Apuntes Cursos/Redes/Direccionamiento": "LiArrowUpDown",
-  "Apuntes Cursos/Redes/Protocolos": "SiHandshakeProtocol",
-  "Apuntes Cursos/Redes/Ethernet": "SiDiagramsdotnet",
-  "Apuntes Cursos/Redes/Transmisión de Datos": "LiPackageCheck",
-  "Apuntes Cursos/Redes/Subneteo": "LiNetwork",
-  "Apuntes Cursos/Redes/Routing": "LiRouter",
-  "Apuntes Cursos/Linux/Terminal": "LiTerminal",
-  "Apuntes Cursos/Linux/Básico": "LiBookOpen",
-  "Apuntes Cursos/Linux/Básico/Qué es Linux.md": "LiBookOpen",
-  "Apuntes Cursos/Linux": "SiLinux"
+  "Apuntes-Cursos/Linux/Básico": "LiBookOpen",
+  "Apuntes-Cursos/Linux/Terminal": "LiTerminal",
+  "Apuntes-Cursos/Redes/Conceptos Básicos": "LiBook",
+  "Apuntes-Cursos/Redes/Direccionamiento": "LiArrowUpDown",
+  "Apuntes-Cursos/Redes/Ethernet": "SiDiagramsdotnet",
+  "Apuntes-Cursos/Redes/Protocolos": "SiHandshakeProtocol",
+  "Apuntes-Cursos/Redes/Routing": "LiRouter",
+  "Apuntes-Cursos/Redes/Subneteo": "LiNetwork",
+  "Apuntes-Cursos/Redes/Transmisión de Datos": "LiPackageCheck",
+  "Apuntes-Cursos/Linux/Básico/Qué es Linux.md": "LiBookOpen",
+  "Recursos-Images": "LiImage"
 }
