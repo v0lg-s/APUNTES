@@ -3,11 +3,13 @@
 ## Comando find
 El comando *find* nos permite especificar una ruta en la cual buscar un archivo con los parámetros que escojamos.
 
+Si lo ejecutamos así, hará una búsqueda recursiva desde el directorio en el que nos encontremos hacia adentro.
+
 ### Filtros
-- -type *Indicar el tipo de archivo que buscamos*
+- -type *Indicar el tipo de elemento que buscamos*
 	- c → caracter
 	- d → directorio
-	- f → regular
+	- f → archivo
 - -used **n** *Indicar que el archivo que se busca fue usado hace n días.*
 	- mayor a n días: +n
 	- menor a n días: -n

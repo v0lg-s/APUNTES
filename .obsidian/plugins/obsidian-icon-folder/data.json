@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiFsecure",
+      "LiShieldCheck",
       "SiLinux",
       "SiGit",
-      "LiImage",
-      "LiPackageCheck",
-      "LiBook"
+      "LiImage"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -75,5 +75,7 @@
   "Apuntes-Cursos/Redes/Subneteo": "LiNetwork",
   "Apuntes-Cursos/Redes/Transmisión de Datos": "LiPackageCheck",
   "Apuntes-Cursos/Linux/Básico/Qué es Linux.md": "LiBookOpen",
-  "Recursos-Images": "LiImage"
+  "Recursos-Images": "LiImage",
+  "Apuntes-Cursos/Linux/SSH": "LiShieldCheck",
+  "Apuntes-Cursos/Linux/Permisos": "SiFsecure"
 }
