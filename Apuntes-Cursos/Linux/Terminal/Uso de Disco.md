@@ -1,4 +1,3 @@
-
 # Ver el uso del disco
 
 ## Comando df

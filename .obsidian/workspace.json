@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apuntes-GIT/Cambios en el proyecto.md",
+                "file": "Apuntes-Cursos/Linux/Terminal/Comprimir y Descomprimir Archivos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apuntes-GIT/Cambios en el proyecto.md",
+                "file": "Apuntes-Cursos/Linux/Terminal/Comprimir y Descomprimir Archivos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apuntes-GIT/Cambios en el proyecto.md",
+                "file": "Apuntes-Cursos/Linux/Terminal/Comprimir y Descomprimir Archivos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apuntes-GIT/Cambios en el proyecto.md"
+                "file": "Apuntes-Cursos/Linux/Terminal/Comprimir y Descomprimir Archivos.md"
               }
             }
           },
@@ -166,45 +166,45 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "cf5526d60353aa3a",
+  "active": "fa54747bc6d34fdd",
   "lastOpenFiles": [
+    "Apuntes-Cursos/Linux/Terminal/Procesos.md",
+    "Apuntes-Cursos/Linux/Terminal/Uso de Disco.md",
+    "Apuntes-Cursos/Linux/Terminal/Ordenamiento.md",
+    "Apuntes-Cursos/Linux/Terminal/Operadores.md",
+    "Apuntes-Cursos/Linux/Terminal/Lectura de Archivos Grandes.md",
+    "Apuntes-Cursos/Linux/Terminal/Gestión de Archivos.md",
+    "Apuntes-Cursos/Linux/Terminal/Filtrar y Buscar Archivos.md",
+    "Apuntes-Cursos/Linux/Terminal/Comprimir y Descomprimir Archivos.md",
+    "Apuntes-Cursos/Redes/Protocolos/Qué es un Protocolo.md",
+    "Apuntes-Cursos/Redes/Protocolos/Protocolo ARP.md",
+    "Apuntes-Cursos/Redes/Routing/NAT.md",
+    "Apuntes-Cursos/Redes/Routing/Port Triggering.md",
+    "Apuntes-Cursos/Redes/Routing/Port Forwarding.md",
+    "Apuntes-Cursos/Redes/Transmisión de Datos/Paquetes y Puertos.md",
+    "Apuntes-Cursos/Redes/Transmisión de Datos/Modelo TCP IP.md",
+    "Apuntes-Cursos/Redes/Transmisión de Datos/Modelo OSI.md",
+    "Apuntes-Cursos/Redes/Transmisión de Datos/Encapsulamiento.md",
+    "Apuntes-Cursos/Redes/Transmisión de Datos/Broadcast y Unicast.md",
+    "Apuntes-Cursos/Redes/Protocolos/Protocolo DHCP.md",
+    "Apuntes-GIT/Cambios en el proyecto.md",
     "Recursos-Images/git-add.png",
     "Recursos-Images/git-STATUS.png",
     "Apuntes-GIT/Empezando un repositorio.md",
-    "Apuntes-GIT/Cambios en el proyecto.md",
-    "Apuntes-Cursos/Redes/Transmisión de Datos/Broadcast y Unicast.md",
     "Apuntes-GIT/Flujo de Trabajo.md",
     "Recursos-Images/stagesGIT.png",
-    "Apuntes-Cursos/Linux/Terminal/Procesos.md",
     "Apuntes-GIT",
-    "Apuntes-Cursos/Linux/Terminal/Filtrar.md",
     "Recursos-Images/comando-du.png",
     "Recursos-Images/grepCommand.png",
-    "Apuntes-Cursos/Linux/Terminal/Operadores.md",
-    "Apuntes-Cursos/Linux/Terminal/Ordenamiento.md",
-    "Apuntes-Cursos/Linux/Terminal/Gestión de Archivos.md",
     "Apuntes-Cursos/Linux/Terminal/Gestión de Directorios.md",
-    "Apuntes-Cursos/Linux/Terminal/Lectura.md",
-    "Apuntes-Cursos/Linux/Terminal/Uso de Disco.md",
     "Apuntes-Cursos/Linux/Básico/Qué es la Terminal.md",
     "Apuntes-Cursos/Introducción a la Ciberseguridad/Sistemas De Detección y Prevención.md",
     "Apuntes-Cursos/Introducción a la Ciberseguridad/Síntomas y Tipos De Malware.md",
-    "Apuntes-Cursos/Introducción a la Ciberseguridad/Cubo de  McCumber.md",
     "Recursos-Images/arp -a.png",
     "Recursos-Images/comando file.png",
     "Recursos-Images/comando ls -a.png",
     "Recursos-Images/comando cd.png",
     "Recursos-Images/capsula.png",
-    "Recursos-Images/IDS.png",
-    "Apuntes-Cursos/Linux/Básico/Estructura de Directorios.md",
-    "Apuntes-Cursos/Redes/Transmisión de Datos/Modelo OSI.md",
-    "Apuntes-Cursos/Introducción a la Ciberseguridad/Tipos de Firewall.md",
-    "Apuntes-Cursos/Introducción a la Ciberseguridad/Tipos de Ataques.md",
-    "Apuntes-Cursos/Linux/Básico/Qué es Linux.md",
-    "Apuntes-Cursos/Redes/Routing/NAT.md",
-    "Prueba.md",
-    "Apuntes-Cursos/Redes/Subneteo/Subnetting.md",
-    "Apuntes-Cursos/Redes/Subneteo/Máscaras de Subred.md",
     "Apuntes-Cursos/Linux/Básico",
     "Apuntes-Cursos/Linux/Terminal",
     "Apuntes-Cursos/Redes/Routing",
