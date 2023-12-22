@@ -5,6 +5,10 @@ El comando *find* nos permite especificar una ruta en la cual buscar un archivo 
 
 Si lo ejecutamos así, hará una búsqueda recursiva desde el directorio en el que nos encontremos hacia adentro.
 
+```bash
+find .
+```
+
 ### Filtros
 - -type *Indicar el tipo de elemento que buscamos*
 	- c → caracter
@@ -19,7 +23,7 @@ Si lo ejecutamos así, hará una búsqueda recursiva desde el directorio en el q
 ### Acciones
 - -delete *Encontrar el archivo especificado y eliminarlo(s)*
 
-*REVISAR "man find" PARA MÁS INFO*
+**REVISAR "man find" PARA MÁS INFO**
 
 ```bash
 find ~/Descargas/ -name *.jpg
@@ -33,6 +37,24 @@ find ~/Descargas/ -name imagen*
 
 Encuentra todos los archivos que incluyan la palabra "imagen" en su nombre.
 
+### Dar formato a la salida
+Es posible mediante el parámetro "*-printf*"  dar formato a la salida del comando find.
+- La f tras print en el comando indica "format" y recibe como parámetro un formato.
+- Otras variantes del comando son fprint cuya f al inicio indica "file" y recibe como parámetro un archivo.
+
+```bash
+find -printf "%f\t%M\n"
+```
+
+Esta linea de comando mostrará por linea de izquierda a derecha el nombre del archivo y los permisos de este.
+
+![[findPrintf.png]]
+
+Podemos encontrar mas información en el manual del comando escribiendo.
+
+```bash
+man find
+```
 ## Comando grep
 Podemos filtrar de la misma manera que con sort y podemos usar el operador [[Operadores#Operador "pipe "|pipe]] para redirigir salidas de comandos y filtrar.
 

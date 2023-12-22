@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "SiFsecure",
-      "LiShieldCheck",
-      "SiLinux",
-      "SiGit",
-      "LiImage"
+      "LiDisc",
+      "LiBook",
+      "SiGnometerminal",
+      "LiFilter",
+      "LiCode2"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -66,7 +66,6 @@
     "inheritanceIcon": "LiNetwork"
   },
   "Apuntes-Cursos/Linux/Básico": "LiBookOpen",
-  "Apuntes-Cursos/Linux/Terminal": "LiTerminal",
   "Apuntes-Cursos/Redes/Conceptos Básicos": "LiBook",
   "Apuntes-Cursos/Redes/Direccionamiento": "LiArrowUpDown",
   "Apuntes-Cursos/Redes/Ethernet": "SiDiagramsdotnet",
@@ -74,8 +73,13 @@
   "Apuntes-Cursos/Redes/Routing": "LiRouter",
   "Apuntes-Cursos/Redes/Subneteo": "LiNetwork",
   "Apuntes-Cursos/Redes/Transmisión de Datos": "LiPackageCheck",
-  "Apuntes-Cursos/Linux/Básico/Qué es Linux.md": "LiBookOpen",
   "Recursos-Images": "LiImage",
   "Apuntes-Cursos/Linux/SSH": "LiShieldCheck",
-  "Apuntes-Cursos/Linux/Permisos": "SiFsecure"
+  "Apuntes-Cursos/Linux/Permisos": "SiFsecure",
+  "Apuntes-Cursos/Linux/Básico/Filtro y Orden": "LiFilter",
+  "Apuntes-Cursos/Linux/Básico/Teoría/Qué es Linux.md": "LiBookOpen",
+  "Apuntes-Cursos/Linux/Básico/Teoría": "LiBook",
+  "Apuntes-Cursos/Linux/Procesos y Uso de Disco": "LiDisc",
+  "Apuntes-Cursos/Linux/Básico/Gestión básica Archivos y DIrectorios": "LiCode2",
+  "Apuntes-Cursos/Linux/Estandares De Consola": "SiGnometerminal"
 }

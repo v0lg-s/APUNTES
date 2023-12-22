@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apuntes-Cursos/Linux/Terminal/Filtrar y Buscar Archivos.md",
-                "mode": "source",
+                "file": "Apuntes-Cursos/Linux/Básico/Filtro y Orden/Ordenamiento.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apuntes-Cursos/Linux/Terminal/Filtrar y Buscar Archivos.md",
+                "file": "Apuntes-Cursos/Linux/Básico/Filtro y Orden/Ordenamiento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apuntes-Cursos/Linux/Terminal/Filtrar y Buscar Archivos.md",
+                "file": "Apuntes-Cursos/Linux/Básico/Filtro y Orden/Ordenamiento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apuntes-Cursos/Linux/Terminal/Filtrar y Buscar Archivos.md"
+                "file": "Apuntes-Cursos/Linux/Básico/Filtro y Orden/Ordenamiento.md"
               }
             }
           },
@@ -168,36 +168,41 @@
   },
   "active": "fa54747bc6d34fdd",
   "lastOpenFiles": [
-    "Apuntes-Cursos/Linux/Terminal/Gestión de Directorios.md",
-    "Apuntes-Cursos/Linux/Terminal/Operadores.md",
-    "Apuntes-Cursos/Linux/Terminal/Ordenamiento.md",
-    "Apuntes-Cursos/Linux/Terminal/Filtrar y Buscar Archivos.md",
-    "Apuntes-Cursos/Linux/Permisos/Cambiar Permisos.md",
-    "Apuntes-Cursos/Linux/Permisos/Lectura de Permisos.md",
-    "Recursos-Images/permisos.png",
-    "Apuntes-Cursos/Linux/Terminal/Gestión de Archivos.md",
-    "Apuntes-Cursos/Linux/Terminal/Lectura de Archivos Grandes.md",
-    "Apuntes-Cursos/Linux/SSH/Conexión.md",
-    "Apuntes-Cursos/Linux/Permisos",
-    "Apuntes-Cursos/Linux/Terminal/Uso de Disco.md",
-    "Apuntes-Cursos/Linux/Terminal/Procesos.md",
-    "Apuntes-Cursos/Redes/Transmisión de Datos/Paquetes y Puertos.md",
+    "Apuntes-Cursos/Linux/Básico/Filtro y Orden/Filtrar y Buscar Archivos.md",
     "Apuntes-Cursos/Redes/Protocolos/Protocolo SSH.md",
+    "Apuntes-Cursos/Linux/SSH/SSH Conexión.md",
+    "Apuntes-Cursos/Linux/Estandares De Consola/STDOUT.md",
+    "Apuntes-Cursos/Linux/Procesos y Uso de Disco",
+    "Apuntes-Cursos/Linux/Básico/Teoría",
+    "Apuntes-Cursos/Linux/Estandares De Consola/STDIN.md",
+    "Apuntes-Cursos/Linux/Básico/Operadores.md",
+    "Apuntes-Cursos/Linux/Estandares De Consola/STDERR.md",
+    "Apuntes-Cursos/Linux/Básico/Teoría/Estructura de Directorios.md",
+    "Apuntes-Cursos/Linux/Estandares De Consola",
+    "Apuntes-Cursos/Linux/Básico/Filtro y Orden/Ordenamiento.md",
+    "Apuntes-Cursos/Linux/Básico/Gestión básica Archivos y DIrectorios/Lectura de Archivos Grandes.md",
+    "Apuntes-Cursos/Linux/Básico/Filtro y Orden",
+    "Apuntes-Cursos/Linux/Básico/Gestión básica Archivos y DIrectorios/Gestión de Archivos.md",
+    "Apuntes-Cursos/Linux/Básico/Gestión básica Archivos y DIrectorios/Comprimir y Descomprimir Archivos.md",
+    "Apuntes-Cursos/Linux/Permisos/Lectura de Permisos.md",
+    "Apuntes-Cursos/Linux/Básico/Gestión básica Archivos y DIrectorios",
+    "Recursos-Images/findPrintf.png",
+    "Apuntes-Cursos/Linux/Básico/Gestión básica Archivos y DIrectorios/Gestión de Directorios.md",
+    "Apuntes-Cursos/Linux/Permisos/Cambiar Permisos.md",
+    "Recursos-Images/permisos.png",
+    "Apuntes-Cursos/Linux/Permisos",
+    "Apuntes-Cursos/Linux/Procesos y Uso de Disco/Uso de Disco.md",
+    "Apuntes-Cursos/Linux/Procesos y Uso de Disco/Procesos.md",
+    "Apuntes-Cursos/Redes/Transmisión de Datos/Paquetes y Puertos.md",
     "Apuntes-Cursos/Redes/Transmisión de Datos/Modelo TCP IP.md",
     "Apuntes-Cursos/Linux/SSH",
     "Apuntes-GIT/Flujo de Trabajo.md",
     "credential.txt",
     "Apuntes-GIT/Empezando un repositorio.md",
     "Apuntes-GIT/Cambios en el proyecto.md",
-    "Apuntes-Cursos/Linux/Terminal/Comprimir y Descomprimir Archivos.md",
     "Apuntes-Cursos/Redes/Protocolos/Qué es un Protocolo.md",
     "Apuntes-Cursos/Redes/Protocolos/Protocolo ARP.md",
     "Apuntes-Cursos/Redes/Routing/NAT.md",
-    "Apuntes-Cursos/Redes/Routing/Port Triggering.md",
-    "Apuntes-Cursos/Redes/Routing/Port Forwarding.md",
-    "Apuntes-Cursos/Redes/Transmisión de Datos/Modelo OSI.md",
-    "Apuntes-Cursos/Redes/Transmisión de Datos/Encapsulamiento.md",
-    "Apuntes-Cursos/Redes/Transmisión de Datos/Broadcast y Unicast.md",
     "Recursos-Images/git-add.png",
     "Recursos-Images/git-STATUS.png",
     "Recursos-Images/stagesGIT.png",
@@ -207,12 +212,6 @@
     "Recursos-Images/arp -a.png",
     "Recursos-Images/comando file.png",
     "Recursos-Images/comando ls -a.png",
-    "Recursos-Images/comando cd.png",
-    "Apuntes-Cursos/Linux/Básico",
-    "Apuntes-Cursos/Linux/Terminal",
-    "Apuntes-Cursos/Redes/Routing",
-    "Apuntes-Cursos/Redes/Subneteo",
-    "Apuntes-Cursos/Redes/Transmisión de Datos",
-    "Apuntes-Cursos/Redes/Protocolos"
+    "Apuntes-Cursos/Linux/Básico"
   ]
 }
