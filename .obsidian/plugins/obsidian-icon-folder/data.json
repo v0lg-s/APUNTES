@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiHtmlacademy",
+      "SiFluentd",
       "SiFsecure",
       "LiShieldCheck",
-      "SiLinux",
-      "SiGit",
-      "LiImage"
+      "SiLinux"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -77,5 +77,7 @@
   "Apuntes-Cursos/Linux/Básico/Qué es Linux.md": "LiBookOpen",
   "Recursos-Images": "LiImage",
   "Apuntes-Cursos/Linux/SSH": "LiShieldCheck",
-  "Apuntes-Cursos/Linux/Permisos": "SiFsecure"
+  "Apuntes-Cursos/Linux/Permisos": "SiFsecure",
+  "Apuntes-GIT/Flujo de Trabajo.md": "SiFluentd",
+  "HTML": "SiHtmlacademy"
 }

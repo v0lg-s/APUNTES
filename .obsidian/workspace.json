@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "fe5bdf17230d7767",
+        "id": "e8be1483babc4c3c",
         "type": "tabs",
         "children": [
           {
-            "id": "fa54747bc6d34fdd",
+            "id": "bef505e326c212bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apuntes-Cursos/Linux/Terminal/Filtrar y Buscar Archivos.md",
+                "file": "Apuntes-Cursos/Redes/Subneteo/Máscaras de Subred.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "10176e6aea1d7cd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apuntes-GIT/Cambios en el proyecto.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apuntes-Cursos/Linux/Terminal/Filtrar y Buscar Archivos.md",
+                "file": "Apuntes-GIT/Cambios en el proyecto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apuntes-Cursos/Linux/Terminal/Filtrar y Buscar Archivos.md",
+                "file": "Apuntes-GIT/Cambios en el proyecto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apuntes-Cursos/Linux/Terminal/Filtrar y Buscar Archivos.md"
+                "file": "Apuntes-GIT/Cambios en el proyecto.md"
               }
             }
           },
@@ -143,7 +156,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -157,62 +172,62 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Crear nuevo lienzo": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo canvas": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "fa54747bc6d34fdd",
+  "active": "10176e6aea1d7cd9",
   "lastOpenFiles": [
-    "Apuntes-Cursos/Linux/Terminal/Gestión de Directorios.md",
-    "Apuntes-Cursos/Linux/Terminal/Operadores.md",
-    "Apuntes-Cursos/Linux/Terminal/Ordenamiento.md",
-    "Apuntes-Cursos/Linux/Terminal/Filtrar y Buscar Archivos.md",
-    "Apuntes-Cursos/Linux/Permisos/Cambiar Permisos.md",
-    "Apuntes-Cursos/Linux/Permisos/Lectura de Permisos.md",
-    "Recursos-Images/permisos.png",
-    "Apuntes-Cursos/Linux/Terminal/Gestión de Archivos.md",
-    "Apuntes-Cursos/Linux/Terminal/Lectura de Archivos Grandes.md",
-    "Apuntes-Cursos/Linux/SSH/Conexión.md",
-    "Apuntes-Cursos/Linux/Permisos",
-    "Apuntes-Cursos/Linux/Terminal/Uso de Disco.md",
-    "Apuntes-Cursos/Linux/Terminal/Procesos.md",
-    "Apuntes-Cursos/Redes/Transmisión de Datos/Paquetes y Puertos.md",
-    "Apuntes-Cursos/Redes/Protocolos/Protocolo SSH.md",
-    "Apuntes-Cursos/Redes/Transmisión de Datos/Modelo TCP IP.md",
-    "Apuntes-Cursos/Linux/SSH",
     "Apuntes-GIT/Flujo de Trabajo.md",
-    "credential.txt",
-    "Apuntes-GIT/Empezando un repositorio.md",
     "Apuntes-GIT/Cambios en el proyecto.md",
-    "Apuntes-Cursos/Linux/Terminal/Comprimir y Descomprimir Archivos.md",
-    "Apuntes-Cursos/Redes/Protocolos/Qué es un Protocolo.md",
-    "Apuntes-Cursos/Redes/Protocolos/Protocolo ARP.md",
-    "Apuntes-Cursos/Redes/Routing/NAT.md",
-    "Apuntes-Cursos/Redes/Routing/Port Triggering.md",
-    "Apuntes-Cursos/Redes/Routing/Port Forwarding.md",
-    "Apuntes-Cursos/Redes/Transmisión de Datos/Modelo OSI.md",
-    "Apuntes-Cursos/Redes/Transmisión de Datos/Encapsulamiento.md",
-    "Apuntes-Cursos/Redes/Transmisión de Datos/Broadcast y Unicast.md",
+    "Apuntes-Libros/Como Ganar Amigos e Influir Sobre Las Personas/Cap-1.md",
+    "Apuntes-Cursos/Redes/Subneteo/Máscaras de Subred.md",
+    "Apuntes-Libros/Como Ganar Amigos e Influir Sobre Las Personas",
+    "Apuntes-GIT/Empezando un repositorio.md",
+    "HTML/Box Model (Modelo De Caja).md",
+    "Apuntes-Cursos/Redes/Conceptos Básicos/Ancho de Banda.md",
+    "Apuntes-Cursos/Redes/Conceptos Básicos/Switch vs Hub.md",
+    "Apuntes-Cursos/Redes/Conceptos Básicos/Red Entre Pares.md",
+    "Apuntes-Cursos/Redes/Conceptos Básicos/Topología de Red.md",
+    "Apuntes-Cursos/Redes/Conceptos Básicos/Tipos de Redes.md",
+    "Apuntes-Cursos/Redes/Conceptos Básicos/Roles de Cliente y Servidor.md",
+    "Código Fuente.md",
+    "HTML/Propiedades de Texto.md",
+    "uppercase.md",
+    "HTML/Elementos/Encabezados y párrafos.md",
+    "HTML/Estructura Básica.md",
+    "Recursos-Images/border-styles-css.png",
+    "Apuntes-Cursos/Linux/Básico/Estructura de Directorios.md",
+    "Apuntes-Cursos/Linux/Permisos/Lectura de Permisos.md",
+    "Apuntes-Cursos/Linux/Permisos/Cambiar Permisos.md",
+    "Recursos-Images/border-styles-css.png.crdownload",
+    "Recursos-Images/css-box-model.png",
+    "Recursos-Images/css-box-model.png.crdownload",
+    "HTML/Elementos/Rutas.md",
+    "HTML/Elementos/Imágenes.md",
+    "HTML/Elementos/Enlaces.md",
+    "HTML/Elementos/Listas.md",
+    "Recursos-Images/UnorderedList.png",
+    "Recursos-Images/listaOrdenada.png",
+    "Recursos-Images/repGraficaHeaders.png",
+    "Recursos-Images/Encabezados.png.png",
+    "Recursos-Images/estructuraHtml.png",
+    "HTML/Elementos",
+    "HTML",
+    "Apuntes-Cursos/Linux/Básico/Qué es la Terminal.md",
+    "Apuntes-Cursos/Linux/Básico/Qué es Linux.md",
+    "Apuntes-Libros/Habitos-atomicos",
+    "Apuntes-Libros",
+    "Nuevo Documento de texto.txt",
+    "Recursos-Images/permisos.png",
+    "Apuntes-Cursos/Linux/Permisos",
+    "Apuntes-Cursos/Linux/SSH",
     "Recursos-Images/git-add.png",
-    "Recursos-Images/git-STATUS.png",
-    "Recursos-Images/stagesGIT.png",
-    "Apuntes-GIT",
-    "Recursos-Images/comando-du.png",
-    "Recursos-Images/grepCommand.png",
-    "Recursos-Images/arp -a.png",
-    "Recursos-Images/comando file.png",
-    "Recursos-Images/comando ls -a.png",
-    "Recursos-Images/comando cd.png",
-    "Apuntes-Cursos/Linux/Básico",
-    "Apuntes-Cursos/Linux/Terminal",
-    "Apuntes-Cursos/Redes/Routing",
-    "Apuntes-Cursos/Redes/Subneteo",
-    "Apuntes-Cursos/Redes/Transmisión de Datos",
-    "Apuntes-Cursos/Redes/Protocolos"
+    "Recursos-Images/git-STATUS.png"
   ]
 }
