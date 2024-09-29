@@ -12,4 +12,4 @@ Es una herramienta usada por desarrolladores para hacer cambios en sitios y serv
 
 El protocolo SSH tiene un mecanismo de autenticación de usuarios que permite que dicho usuario tenga autorización para comunicarse con el servidor.
 
-Para usar ssh en linux ver [[]]
+Para usar ssh en linux ver [[SSH Conexión|SSH]] 
