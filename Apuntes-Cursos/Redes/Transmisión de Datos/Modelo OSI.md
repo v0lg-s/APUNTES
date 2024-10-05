@@ -57,8 +57,8 @@ Define los servicios para segmentar, transferir y ensamblar los datos para las c
 
 ## Protocolos Capa de Transporte
 Protocolos de transmisión de datos.
-- [[Protocolos TCP y UDP#TCP (Transmission Control Protocol)|TCP]]
-- [[Protocolos TCP y UDP#UDP (User Datagram Protocol)|UDP]]
+- [[Protocolo TCP#TCP (Transmission Control Protocol)|TCP]]
+- [[Protocolo TCP#UDP (User Datagram Protocol)|UDP]]
 
 # Capa 5: Capa de Sesión
 Es la parte del [[Roles de Cliente y Servidor#^6e841b|Host]] transmisor que ==hace la conexión== con el host remoto o receptor. Aquí se hace la conexión a los diferentes servicios dependiendo de la solicitud del cliente.

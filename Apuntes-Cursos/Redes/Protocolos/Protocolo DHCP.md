@@ -1,6 +1,6 @@
 DHCP (Dynamic Host Configuration Protocol) es un protocolo que trabaja en la [[Modelo OSI#Capa 7 Capa de Aplicación|Capa de Aplicación]], su función principal es asignar direcciones IP de manera dinámica a dispositivos dentro de una red, además, hace automáticamente la configuración TCP/IP (Configuraciones como la Máscara de Red, Dirección IP, servidor DNS, router por defecto o Default Gateway). Esta configuración es necesaria para cada dispositivo que se conecta a la red.
 
-Bootstrap Protocol es el protocolo homólogo de DHCP en sistemas Linux.
+*Bootstrap Protocol* es el protocolo homólogo de DHCP en sistemas Linux.
 
 Solo puede haber un servidor DHCP en la red, si hay más de uno puede crear conflictos. El servidor debe estar dentro de la red.
 

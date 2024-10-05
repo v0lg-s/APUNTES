@@ -3,11 +3,9 @@ Todas las PC conectadas a una red que participan directamente en las comunicacio
 - Los hosts pueden enviar y recibir mensajes a través de la red. 
 - En las redes modernas, las PC hosts pueden actuar como cliente, servidor o ambos. 
 - El software instalado en la computadora determina cuál es la función que cumple la computadora.
-
 ## Clientes
 
 ^7f9dca
-
 Los clientes son computadores Host que tienen un software que les permite solicitar información al servidor y mostrar la información obtenida.
 
 ## Servidores

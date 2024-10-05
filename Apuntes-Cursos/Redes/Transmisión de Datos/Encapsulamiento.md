@@ -17,7 +17,7 @@ Por ejemplo, en el modelo de referencia OSI, que consta de siete capas, el proce
     - Los datos de la capa de presentación se encapsulan en un formato de sesión.
     - Se agrega información para el establecimiento, mantenimiento y cierre de sesiones.
 4. **Capa de Transporte**:
-    - Los datos de la capa de sesión se encapsulan en segmentos (en [[Protocolos TCP y UDP#TCP (Transmission Control Protocol)|TCP]]) o datagramas (en [[Protocolos TCP y UDP#UDP (User Datagram Protocol)|UDP]]).
+    - Los datos de la capa de sesión se encapsulan en segmentos (en [[Protocolo TCP#TCP (Transmission Control Protocol)|TCP]]) o datagramas (en [[Protocolo TCP#UDP (User Datagram Protocol)|UDP]]).
     - Se agrega un encabezado que contiene información de la capa de transporte (como números de puerto de origen y destino).
 5. **Capa de Red**:
     - Los segmentos o datagramas de la capa de transporte se encapsulan en paquetes IP.
