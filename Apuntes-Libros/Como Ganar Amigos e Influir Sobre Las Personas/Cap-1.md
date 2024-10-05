@@ -1,3 +1,6 @@
+**REGLA #1: NO CRITIQUE, NO CONDENE NI SE QUEJE**
+
+---
 **Ningún hombre se critica a sí mismo por nada.**
 Las personas no suelen reconocer sus errores, en cambio, buscan excusarse y censurar a quienes señalan estos defectos. Pueden justificar de mil maneras el por qué su proceder ha sido correcto, con falacias o argumentos lógicos.
 
