@@ -1,7 +1,4 @@
-Es un modelo de protocolo:
-
-- **Modelo de Protocolo -** Este modelo coincide estrechamente con la estructura de un conjunto de protocolos en particular. Una suite de protocolos incluye el conjunto de protocolos relacionados que generalmente proporcionan toda la funcionalidad requerida para que las personas se comuniquen con la red de datos. 
-	- El modelo TCP/IP es un modelo de protocolos porque describe las funciones que ocurren en cada capa de protocolos dentro de una suite de TCP/IP.
+El modelo TCP/IP es un modelo de protocolos porque describe las funciones que ocurren en cada capa de protocolos dentro de una suite de TCP/IP.
 
 ![[MODELO-TCP-IP.png]]
 # Capa 4: Aplicación

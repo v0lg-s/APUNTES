@@ -36,7 +36,7 @@ Proporciona servicios para intercambiar los datos individuales en la red entre t
 Se debe trabajar con direcciones IP ya que al conectarse a internet las direcciones MAC son insuficientes.
 ## Protocolos Capa de Red
 - **OSPF**: Protocolo que determina la ruta más rápida que deben seguir los datos para llegar a su destino dentro de una red.
-- ==IP== 
+- [[Protocolo IP|IP]]
 - IPsec
 - [[Protocolo ARP|ARP]]
 - [[NAT|NAT]]

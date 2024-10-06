@@ -11,12 +11,18 @@ Sirven para:
 *Clase B* → <font color="#BE0000"> 255.255</font><font color="#43F700">.0.0</font> → <font color="#BE0000">RED</font> <font color="#43F700">HOST</font> /16 (Máscara 16) → *16 bits parte de Red → 16 bits parte de Host.*
 *Clase C* → <font color="#BE0000"> 255.255.255</font><font color="#43F700">.0</font> → <font color="#BE0000">RED</font> <font color="#43F700">HOST</font> /24 (Máscara 24) → *24 bits parte de Red → 8 bits parte de Host.*
 
-**Nota:** No se puede usar 0 ni 255 para identificar al host son exclusivas de la red y la dirección broadcast respectivamente. ^eabba1
+
+**Nota:** No se puede usar 0 ni 255 para identificar a un host porque son exclusivas de la red y la dirección broadcast respectivamente. ^eabba1
 - La notación *"/#"* se usa para indicar de que máscara de red se trata sin tener que decir la dirección completa. El número indica la cantidad de 1's en los [[Dirección IP#Características|octetos]] de la dirección IP. Este número indica la cantidad de bits usados en la dirección IP para identificar la red. ^6cd642
 ### Rangos de Clases de Red
-*Clase A→* Primer octeto de 0-126 → *Notación /#* → /8 → En binario inicia siempre en 0.
-*Clase B→* Primer octeto de 128-191 → *Notación /#* → /16 → En binario inicia siempre en 10.
-*Clase C→* Primer octeto de 192-223 → *Notación /#* → /24 → En binario inicia siempre en 110.
+
+| Clase de dirección | Rango del primer octeto | Notación /# |     Mascara de subred      |         Numero de posibles redes y hosts por red         | Rango en binario                                                      |
+| ------------------ | :---------------------: | :---------: | :------------------------: | :------------------------------------------------------: | --------------------------------------------------------------------- |
+| Clase A            |          0-127          |     /8      |         255.0.0.0          |         128 redes. <br>$$2^{24-2}\text{ Hosts}$$         | <font color="red">0</font>0000000 - <font color="red">0</font>1111111 |
+| Clase B            |         128-191         |     /16     |        255.255.0.0         | $$2^{14}\text{ Redes}$$<br>$$2^{16-2}\text{ Hosts}$$<br> | <font color="red">10</font>000000 - <font color="red">10</font>111111 |
+| Clase C            |         192-223         |     /24     |       255.255.255.0        |   $$2^{21}\text{ Redes}$$ $$2^{8-2}\text{ Hosts}$$<br>   | <font color="red">110</font>00000 - <font color="red">110</font>11111 |
+| Clase D            |         224-239         |             |  Es usada para multicast.  |                                                          | 111                                                                   |
+| Clase E            |         240-255         |             | Es usada para experimentar |                                                          | 1111                                                                  |
 ## Cómo se forman las máscaras de red
 
 Para formar una mascara de red se comienza encendiendo los bits de la dirección desde la izquierda.

@@ -44,12 +44,13 @@ La adulación a la larga causa más problemas que beneficios.
 **OJO: Puede funcionar con personas que no disciernen entre esta y el aprecio sincero. Pero con personas inteligentes, elogios baratos, huecos y constantes no tienen efecto.
 Debemos entender la diferencia entre adulación y apreciación para evitar caer en este tipo de manipulación**
 
-| Adulación                                                                          | Apreciación             |
-| :--------------------------------------------------------------------------------- | ----------------------- |
-| Es falsa, egoísta y carece de importancia.                                         | Es sincera y altruista. |
-| Trae consigo un interés subyacente, ya sea conseguir un favor o ganar su voluntad. | Es desinteresada.       |
-| Es exagerada.                                                                      | Es real y honesta.      |
-| Sale de la boca.                                                                   | Procede del corazón.    |
+|                                     Adulación                                      |       Apreciación       |
+| :--------------------------------------------------------------------------------: | :---------------------: |
+|                     Es falsa, egoísta y carece de importancia.                     | Es sincera y altruista. |
+| Trae consigo un interés subyacente, ya sea conseguir un favor o ganar su voluntad. |    Es desinteresada.    |
+|                                   Es exagerada.                                    |   Es real y honesta.    |
+|                                  Sale de la boca.                                  |  Procede del corazón.   |
+
 ```
 Si dejamos de pensar en nosotros mismos y comenzamos a pensar en las buenas cualidades del prójimo, no tendremos que acudir a la adulación.
 ```

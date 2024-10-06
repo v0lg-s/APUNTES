@@ -1,0 +1,1 @@
+Un **modelo de referencia** es como un mapa o guía general que describe cómo deben comunicarse diferentes sistemas en una red. No se enfoca en los detalles técnicos, sino que define qué pasos o capas deben seguirse para que los sistemas se conecten y funcionen juntos de manera eficiente.

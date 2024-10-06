@@ -9,14 +9,20 @@
 	- 172.16.x.x - 172.31.x.x
 	- 192.168.x.x 
 
-**IP Loopback:** Son direcciones que se usan para que un dispositivo se comunique con sí mismo en una red.
-- Se utilizan principalmente para probar y diagnosticar aplicaciones y servicios que utilizan la red.
-	- Las direcciones IP de Loopback son:
-		- 127.0.0.1 o 127.0.x.x → para IPv4
-		- : : 1 → Para IPv6
+# Rangos de direcciones
+## Direcciones privadas
 
-**IP APIPA (Automatic Private IP Addressing):** Son direcciones IP reservadas que se utilizan en redes locales cuando un dispositivo no puede obtener una dirección IP válida de un servidor DHCP.
+| Clase | Rango inicial |   Rango final   |
+| :---: | :-----------: | :-------------: |
+|   A   |   10.0.0.0    | 10.255.255.255  |
+|   B   |  172.16.0.0   | 172.32.255.255  |
+|   C   |  192.168.0.0  | 192.168.255.255 |
+## Direcciones públicas
 
-Las direcciones APIPA son una solución temporal y de último recurso cuando no se puede obtener una dirección IP válida de un servidor DHCP. La falta de conectividad puede indicar problemas en la red o con la configuración de DHCP que deben resolverse para restaurar una conectividad.
-- Están en el rango de:
-	- 169.254.0.0 - 169.254.255.255
+| Clase | Rango inicial |   Rango final   |
+| :---: | :-----------: | :-------------: |
+|   A   |    0.0.0.0    | 126.255.255.255 |
+|   B   |   128.0.0.0   | 191.255.255.255 |
+|   C   |   192.0.0.0   | 223.255.255.255 |
+|   D   |   224.0.0.0   | 239.255.255.255 |
+|   E   |   240.0.0.0   | 254.255.255.255 |

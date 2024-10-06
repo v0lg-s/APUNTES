@@ -63,6 +63,7 @@ En este caso no se usan de:
 
 A partir de la dirección IP dada tenemos que ver de que clase es dependiendo de su rango:
 ![[Máscaras de Subred#Rangos de Clases de Red]]
+
 Una vez conocemos a qué clase pertenece esta dirección podemos saber cual es su máscara de red predeterminada, es con esta máscara de red en binario que trabajaremos para realizar el subneteo.
 
 --- 

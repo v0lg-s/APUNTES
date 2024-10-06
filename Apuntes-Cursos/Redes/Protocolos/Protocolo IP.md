@@ -1,3 +1,4 @@
+Es responsable de tomar los segmentos con formato de TCP, encapsularlos en paquetes, asignarles direcciones adecuadas y enviarlos a través del mejor camino hacia el host de destino.
 # ¿Qué es?
 Es un protocolo que hace parte de la capa 3 del modelo OSI.
 El Protocolo de Internet, rige la forma en que los datos se envían, enrutan y reciben en una red de computadoras. IP es responsable de enviar un mensaje desde el origen del mensaje al destino a través de una o más redes.

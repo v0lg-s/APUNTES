@@ -1,0 +1,1 @@
+Un **modelo de protocolo**, es más específico que un [[Que es un modelo de protocolo|modelo de protocolo]]. Define las reglas técnicas y los formatos exactos que deben seguirse para que los dispositivos puedan intercambiar datos de manera correcta.
