@@ -2,10 +2,10 @@
 
 *Todas las personas se mueven y actúan por sus deseos y necesidades, todos quieren algo en particular, solo hay que saber qué es y el mundo entero estará con usted.*
 
-Cada uno de los actos que realizamos está influenciado por cosas que queremos, no necesariamente debe ser algo material. Puede ser un sentimiento o un estado mental. Funciona así para todos, por ejemplo, nadie dona dinero a la caridad sin querer antes algo, sentirse de ayuda, alentar el sentimiento de altruismo, etc. Si ese deseo fuera menor al deseo de querer conservar su dinero, no habría hecho la donación.
+Cada uno de los actos que realizamos está influenciado por cosas que queremos, no necesariamente debe ser algo material, puede ser un sentimiento o un estado mental. Funciona así para todos, por ejemplo, nadie dona dinero a la caridad sin querer antes algo, sentirse de ayuda, alentar el sentimiento de altruismo, etc. Si ese deseo fuera menor al deseo de querer conservar su dinero, no habría hecho la donación.
 
 ```
-"La acción surge de lo que deseamos fundamentalmente... y el mejor consejo que puede darse a los que pretenden ser persuasivos, ya sea en los negocios, en el hogar, en la escuela o en la pol;itica es este: primero, despertar en la otra persona un franco deseo. Quien puede hacerlo tiene al mundo entero consigo.
+"La acción surge de lo que deseamos fundamentalmente... y el mejor consejo que puede darse a los que pretenden ser persuasivos, ya sea en los negocios, en el hogar, en la escuela o en la política es este: primero, despertar en la otra persona un franco deseo. Quien puede hacerlo tiene al mundo entero consigo.
 Quien no puede, marcha solo por el camino."
 Henry A. Overstreet, Influenciando el comportamiento humano.
 ```

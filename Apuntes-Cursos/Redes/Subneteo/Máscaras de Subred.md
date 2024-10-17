@@ -18,9 +18,9 @@ Sirven para:
 
 | Clase de dirección | Rango del primer octeto | Notación /# |     Mascara de subred      |         Numero de posibles redes y hosts por red         | Rango en binario                                                      |
 | ------------------ | :---------------------: | :---------: | :------------------------: | :------------------------------------------------------: | --------------------------------------------------------------------- |
-| Clase A            |          0-127          |     /8      |         255.0.0.0          |         128 redes. <br>$$2^{24-2}\text{ Hosts}$$         | <font color="red">0</font>0000000 - <font color="red">0</font>1111111 |
-| Clase B            |         128-191         |     /16     |        255.255.0.0         | $$2^{14}\text{ Redes}$$<br>$$2^{16-2}\text{ Hosts}$$<br> | <font color="red">10</font>000000 - <font color="red">10</font>111111 |
-| Clase C            |         192-223         |     /24     |       255.255.255.0        |   $$2^{21}\text{ Redes}$$ $$2^{8-2}\text{ Hosts}$$<br>   | <font color="red">110</font>00000 - <font color="red">110</font>11111 |
+| Clase A            |          0-127          |     /8      |         255.0.0.0          |         128 redes. <br>$$2^{24}-2\text{ Hosts}$$         | <font color="red">0</font>0000000 - <font color="red">0</font>1111111 |
+| Clase B            |         128-191         |     /16     |        255.255.0.0         | $$2^{14}\text{ Redes}$$<br>$$2^{16}-2\text{ Hosts}$$<br> | <font color="red">10</font>000000 - <font color="red">10</font>111111 |
+| Clase C            |         192-223         |     /24     |       255.255.255.0        |   $$2^{21}\text{ Redes}$$ $$2^{8}-2\text{ Hosts}$$<br>   | <font color="red">110</font>00000 - <font color="red">110</font>11111 |
 | Clase D            |         224-239         |             |  Es usada para multicast.  |                                                          | 111                                                                   |
 | Clase E            |         240-255         |             | Es usada para experimentar |                                                          | 1111                                                                  |
 ## Cómo se forman las máscaras de red
