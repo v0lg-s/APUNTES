@@ -1,0 +1,3 @@
+Los *logs/registros/historial de log* son un registro de todo lo que ocurre en una aplicación, red o servidor. Todos los eventos son registrados o grabados en un archivo o base de datos , por ejemplo, empleados que inician sesión en sus computadores o acceden a servicios web.
+
+**Ayudan** a los profesionales de seguridad a identificar *vulnerabilidades* o posibles *infracciones o violaciones* de seguridad.
