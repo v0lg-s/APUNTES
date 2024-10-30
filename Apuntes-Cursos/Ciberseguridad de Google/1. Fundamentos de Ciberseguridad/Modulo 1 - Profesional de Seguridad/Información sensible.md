@@ -13,4 +13,4 @@ Es un tipo de PII, manejada con estrictas pautas de manejo por su importancia.
 - Número de seguridad social
 - Información médica y financiera
 - Datos biométricos, como reconocimiento facial.
-Si esta información es robada tiene el potencial de ser muy perjudicial.  Robo de identidad, fraude con objetivos económicos principalmente.
+Si esta información es robada tiene el potencial de ser muy perjudicial.  Robo de identidad y fraude con objetivos económicos principalmente.
