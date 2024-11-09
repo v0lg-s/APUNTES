@@ -24,7 +24,7 @@ Realizar esto pone múltiples obstáculos en el camino de un atacante.
 - Firewalls
 - Sistemas de detección y prevención ([[Sistemas De Detección y Prevención|IDS]])
 
-## 4. Separación de privilegios
+## 4. Separación de privilegios/funciones
 Implica dividir los privilegios y responsabilidades de un sistema informático entre diferentes componentes o entidades. 
 *"A nadie se le deberían dar tantos privilegios que pueda hacer mal uso del sistema."*
 ### Ejemplo

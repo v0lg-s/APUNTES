@@ -4,9 +4,10 @@ Como lo dice su nombre una dirección IP es literalmente una dirección (número
 
 - Son usadas para el enrutamiento y segmentación:
 	- **Enrutamiento de datos:** En redes de mayor escala, como Internet, los datos deben ser enviados a través de múltiples nodos intermedios antes de llegar a su destino final. Las direcciones IP permiten que los routers y otros dispositivos de red identifiquen el camino correcto para enrutar los datos hacia su destino.
-	- **Segmentación de redes:** Las redes grandes pueden dividirse en segmentos más pequeños para facilitar la administración y mejorar el rendimiento. Cada segmento puede tener su propio rango de direcciones IP, lo que ayuda a mantener el orden y la organización en la red. (Ver [[Subnetting | subnetting]])
+	- **Segmentación de redes:** Las redes grandes pueden dividirse en segmentos más pequeños para facilitar la administración y mejorar el rendimiento. Cada segmento puede tener su propio rango de direcciones IP, lo que ayuda a mantener el orden y la organización en la red. (Ver [[Qué Es Subnetting| subnetting]])
 - Es un requisito para conectarse a internet para que otros dispositivos puedan enviar y recibir datos de el dispositivo.
-
+# Rangos de clases de direcciones IP
+![[Máscaras de Subred#Rangos de Clases de Red]]
 # Características
 - No están fijadas a una tarjeta de red específica.
 - Son únicas.
