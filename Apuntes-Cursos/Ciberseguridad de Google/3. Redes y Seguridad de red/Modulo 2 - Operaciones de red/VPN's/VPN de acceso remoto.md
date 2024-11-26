@@ -1,0 +1,1 @@
+Los usuarios individuales utilizan las VPN de acceso remoto para establecer una conexión entre un dispositivo personal y un servidor VPN. Las VPN de acceso remoto encriptan los datos enviados o recibidos a través de un dispositivo personal. La conexión entre el usuario y la VPN de acceso remoto se establece a través de Internet.

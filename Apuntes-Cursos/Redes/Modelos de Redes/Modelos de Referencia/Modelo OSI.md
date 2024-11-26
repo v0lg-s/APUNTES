@@ -40,7 +40,7 @@ Se debe trabajar con direcciones IP ya que al conectarse a internet las direccio
 - IPsec
 - [[Protocolo ARP|ARP]]
 - [[NAT|NAT]]
-- ICMP
+- [[Protocolo ICMP|ICMP]]
 
 # Capa 4: Capa de Transporte
 

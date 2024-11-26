@@ -1,0 +1,1 @@
+El ICMP (Internet Control Message Protocol) comparte información sobre errores y actualizaciones del estado de los paquetes de datos. Esto resulta útil para detectar y solucionar errores de red. El ICMP transmite información sobre paquetes que se han perdido o que han desaparecido en tránsito, problemas con la conectividad de la red y paquetes redirigidos a otros routers.

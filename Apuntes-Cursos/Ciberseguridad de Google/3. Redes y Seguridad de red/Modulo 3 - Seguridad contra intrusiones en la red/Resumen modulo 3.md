@@ -1,0 +1,1 @@
+Comprenderá los tipos de ataques a la red y las técnicas utilizadas para asegurar los sistemas y dispositivos de red comprometidos. Explorará las muchas formas en que los actores maliciosos explotan las vulnerabilidades de la Infraestructura de red y cómo los profesionales de la ciberseguridad identifican y cierran las posibles brechas.

@@ -1,0 +1,1 @@
+Es un conjunto de reglas usado por 2 o más dispositivos en una red para describir el orden de entrega y la estructura de la información.

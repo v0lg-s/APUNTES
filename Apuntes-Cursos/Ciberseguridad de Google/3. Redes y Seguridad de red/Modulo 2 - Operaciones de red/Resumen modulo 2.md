@@ -1,0 +1,1 @@
+Explorará los protocolos de red y cómo la comunicación de red puede introducir vulnerabilidades. Además, aprenderá sobre las medidas de seguridad comunes, como los firewalls, que ayudan a que las operaciones de red sigan siendo seguras y fiables.

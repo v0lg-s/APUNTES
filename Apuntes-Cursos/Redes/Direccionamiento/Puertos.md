@@ -11,24 +11,27 @@ Los puertos son utilizados para redirigir la información que llega en las trama
 
 ![[puertos-PROTOCOLOS.png]]
 
-*Puertos conocidos con aplicaciones asociadas:*
+## Puertos conocidos con aplicaciones asociadas:
 
-| Número de Puerto | Transporte |                 Protocolo de aplicación                 |
-| :--------------: | :--------: | :-----------------------------------------------------: |
-|        20        |    TCP     |                       FTP - Datos                       |
-|        21        |    TCP     |                      FTP - Control                      |
-|        22        |    TCP     |                    Secure Shell SSH                     |
-|        23        |    TCP     |                         Telnet                          |
-|        25        |    TCP     |   Protocolo simple de transferencia de correo (SMTP)    |
-|        53        |  UDP, TCP  |          Servicio de nombres de dominio (DNS)           |
-|        67        |    UDP     |                     DHCP - Servidor                     |
-|        68        |    UDP     |                      DHCP -Cliente                      |
-|        69        |    UDP     |  Protocolo trivial de transferencia de archivos (TFTP)  |
-|        80        |    TCP     |                          HTTP                           |
-|       110        |    TCP     |    Protocolo de oficina de correos, versión 3 (POP3)    |
-|       143        |    TCP     |    Protocolo de acceso a mensajes de Internet (IMAP)    |
-|       161        |    UDP     |   Protocolo simple de administración de redes (SNMP)    |
-|       443        |    TCP     | Protocolo seguro de transferencia de hipertexto (HTTPS) |
+| Número de Puerto | Transporte |                   Protocolo de aplicación                    |
+| :--------------: | :--------: | :----------------------------------------------------------: |
+|        20        |    TCP     |                         FTP - Datos                          |
+|        21        |    TCP     |                        FTP - Control                         |
+|        22        |    TCP     |                       Secure Shell SSH                       |
+|        23        |    TCP     |                            Telnet                            |
+|        25        |  UDP, TCP  |      Protocolo simple de transferencia de correo (SMTP)      |
+|       587        |  UDP, TCP  |  Protocolo simple de transferencia de correo seguro (SMTPS)  |
+|        53        |  UDP, TCP  |             Servicio de nombres de dominio (DNS)             |
+|        67        |    UDP     |                       DHCP - Servidor                        |
+|        68        |    UDP     |                        DHCP -Cliente                         |
+|        69        |    UDP     |    Protocolo trivial de transferencia de archivos (TFTP)     |
+|        80        |    TCP     |                             HTTP                             |
+|       110        |  UDP, TCP  | Protocolo de oficina de correos, versión 3 (POP3) No cifrado |
+|       995        |  UDP, TCP  | Protocolo de oficina de correos, versión 3 (POP3) Encriptado |
+|       143        |    TCP     | Protocolo de acceso a mensajes de Internet (IMAP) No cifrado |
+|       993        |    TCP     | Protocolo de acceso a mensajes de Internet (IMAP) Encriptado |
+|       161        |    UDP     |      Protocolo simple de administración de redes (SNMP)      |
+|       443        |    TCP     |   Protocolo seguro de transferencia de hipertexto (HTTPS)    |
 
 Se puede ver el sitio web de IANA para consultar el registro de puertos con la lista completa de números de puerto y la aplicación asociada.
 

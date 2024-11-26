@@ -1,0 +1,1 @@
+Se le presentará la Seguridad de red y se le explicará cómo se relaciona con las amenazas y vulnerabilidades de seguridad actuales. Aprenderá sobre la arquitectura de red y los mecanismos para asegurar una red.

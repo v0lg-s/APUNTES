@@ -1,6 +1,7 @@
 El modelo TCP/IP es un modelo de protocolos porque describe las funciones que ocurren en cada capa de protocolos dentro de una suite de TCP/IP.
 
 ![[MODELO-TCP-IP.png]]
+![[protocolos por capa TCP IP.png]]
 # Capa 4: Aplicación
 En esta capa el proceso de encapsulamiento convierte el mensaje en *datos*.
 
@@ -41,3 +42,4 @@ Controla los dispositivos del hardware y los medios físicos que forman la red. 
 El modelo TCP/IP es un método para visualizar las interacciones de los diversos protocolos que conforman el conjunto de protocolos TCP/IP. No describe las funciones generales necesarias para todas las comunicaciones de red. Describe las funciones de red específicas de los protocolos en uso en el conjunto de protocolos TCP/IP.
 
 La funcionalidad de la capa de transporte es la misma en ambos modelos. Sin embargo, la capa de acceso a la red y la capa de aplicaciones del modelo TCP/IP se dividen a su vez en el modelo OSI para describir funciones discretas que deben realizarse en estas capas.
+
