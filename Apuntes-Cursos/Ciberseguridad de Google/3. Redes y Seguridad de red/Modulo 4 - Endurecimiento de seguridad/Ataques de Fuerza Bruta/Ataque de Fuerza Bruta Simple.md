@@ -1,0 +1,1 @@
+Cuando los atacantes intentan adivinar las credenciales de inicio de sesión de un usuario, se considera un ataque de fuerza bruta simple. Pueden hacerlo introduciendo cualquier combinación de nombres de usuario y contraseñas que se les ocurra hasta encontrar la que funcione.

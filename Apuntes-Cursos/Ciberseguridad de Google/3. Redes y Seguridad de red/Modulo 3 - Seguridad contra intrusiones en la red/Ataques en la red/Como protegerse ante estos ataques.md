@@ -1,0 +1,1 @@
+Lo principal es el cifrado de todas las comunicaciones en la red. Esto se logra con una VPN, por otro lado, para defenderse de la suplantación de IP se pueden configurar reglas en el firewall, en las que se le diga al firewall que al recibir un paquete cuya dirección de emisor es una dirección de la red interna la niegue.

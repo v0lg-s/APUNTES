@@ -1,0 +1,6 @@
+- ``clear``: Borra la pantalla del terminal; esto también se puede hacer introduciendo CTRL + L
+- CTRL + A: Sitúa el cursor al principio de un comando
+- CTRL + E: Fija el cursor al final de un comando
+- Left arrow **tecla** Se desplaza a la izquierda dentro de un comando
+- Right arrow **clave**: Se desplaza a la derecha dentro de un comando
+- Up arrow **clave**: Proporciona el último comando introducido en la línea de comandos; puede introducirse varias veces para recorrer varios comandos del historial de comandos
