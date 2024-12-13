@@ -1,0 +1,3 @@
+- **Transparencia:** Información relevante puede ser accedida.
+- **Estandarización:** Hay un conjunto de lineamiento o estándares establecidos que los miembros de una organización pueden seguir para completar una tarea.  
+- **Claridad:** Provee un claro entendimiento a los miembros de equipos acerca de sus roles y deberes. Provee información de como realizar el trabajo.

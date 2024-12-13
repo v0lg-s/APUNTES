@@ -1,0 +1,4 @@
+- **Conocer al público objetivo de la documentación:** Un resumen de incidentes redactado para un encargado de un centro de operaciones de seguridad (SOC) se escribirá de diferente manera a uno dirigido al CEO de la organización. Uno contendrá lenguaje técnico de la seguridad.
+- **Ser conciso:** Cuando la documentación es demasiado larga disuade a la gente de utilizarla. 
+	- Establecer el propósito inmediatamente: Ayuda a la gente a identificar el objetivo del documento.
+- **Actualización periódica:** La documentación debe revisarse y actualizarse con regularidad para mantenerse al día, el mundo de la seguridad es bastante cambiante con el descubrimiento de nuevas vulnerabilidades explotables constantemente.

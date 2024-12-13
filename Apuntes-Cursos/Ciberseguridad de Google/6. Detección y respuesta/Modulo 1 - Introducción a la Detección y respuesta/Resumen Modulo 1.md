@@ -1,0 +1,1 @@
+Se le presentará la Detección y la Respuesta ante incidentes, así como los pasos que intervienen en el proceso de respuesta ante incidentes. También explorará cómo los profesionales de la ciberseguridad verifican y responden a las amenazas maliciosas.

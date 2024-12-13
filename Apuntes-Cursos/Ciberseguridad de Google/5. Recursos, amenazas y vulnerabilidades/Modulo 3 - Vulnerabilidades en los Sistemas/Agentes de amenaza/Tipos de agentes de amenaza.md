@@ -1,0 +1,5 @@
+- Los **competidores** se refieren a empresas rivales que suponen una amenaza porque podrían beneficiarse de la filtración de información.
+- Los **actores estatales** son las agencias de inteligencia gubernamentales.
+- Los **sindicatos criminales** se refieren a grupos organizados de personas que ganan dinero con actividades delictivas.
+- **Amenaza interna** puede ser cualquier individuo que tenga o haya tenido autorización para acceder a los Recursos de una organización. Esto incluye a empleados que accidentalmente comprometen recursos o a individuos que los ponen en peligro a propósito para su propio beneficio.
+- La **TI en la sombra** se refiere a los individuos que utilizan tecnologías que carecen de Gobierno de TI. Un ejemplo común es cuando un empleado utiliza su correo electrónico personal para enviar comunicaciones relacionadas con el trabajo.

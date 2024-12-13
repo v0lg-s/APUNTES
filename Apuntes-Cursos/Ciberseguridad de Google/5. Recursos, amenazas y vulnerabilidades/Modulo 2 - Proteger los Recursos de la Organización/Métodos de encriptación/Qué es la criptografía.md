@@ -1,0 +1,1 @@
+Es el proceso de transformar información de manera que lectores no deseados no puedan entenderla.

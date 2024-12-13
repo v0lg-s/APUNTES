@@ -1,0 +1,1 @@
+Comprenderá el proceso de gestión de vulnerabilidades. Conocerá las vulnerabilidades más comunes y desarrollará una mentalidad de atacante examinando las formas en que las vulnerabilidades pueden convertirse en amenazas para la Seguridad de los activos si son explotadas.

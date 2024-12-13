@@ -1,0 +1,7 @@
+- **Gestión de activos:** Es el proceso de mantener un seguimiento a los activos y los riesgos que los pueden afectar. Comienza con:
+	- **Inventario de activos:** Es un catálogo de los activos que necesitan ser protegidos. Es una parte fundamental de la gestión de activos. Sin ella la organización podría perderle pista a recursos importantes sin proteger.
+- **Clasificación de activos:** Es la práctica de etiquetar los recursos/activos basándonos en la importancia y sensibilidad de estos para con la organización.
+	- **Públicos:** Se pueden compartir con cualquiera.
+	- **Sólo internos:** Se pueden compartir con cualquiera dentro de la organización pero no fuera de esta.
+	- **Confidenciales:**  Solo pueden ser accedidos por aquellos trabajando en un proyecto específico.
+	- **Restringidos:** Altamente sensibles y deben ser protegidos. Es muy necesario identificarlos.

@@ -1,0 +1,1 @@
+Devuelve un único número que representa la media de los datos numéricos de una columna.

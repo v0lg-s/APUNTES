@@ -1,0 +1,3 @@
+La **gestión de identidad y** acceso (IAM) es un conjunto de procesos y tecnologías que ayuda a las organizaciones a gestionar las identidades digitales en su entorno. Tanto los sistemas AAA como los IAM están diseñados para autenticar a los usuarios, determinar sus privilegios de acceso y realizar un seguimiento de sus actividades dentro de un sistema.
+
+Framework de autenticación, autorización y contabilidad (AAA). Muchas empresas utilizaron este Modelo para implementar estos dos principios de Seguridad y gestionar el acceso de los usuarios.

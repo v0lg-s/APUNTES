@@ -1,0 +1,1 @@
+Ampliará su capacidad para trabajar con Python. Aprenderá sobre las funciones de Python predefinidas y definidas por el usuario. También explorará cómo los módulos ayudan a proporcionar acceso a código reutilizable. Por último, se centrará en la legibilidad del código.

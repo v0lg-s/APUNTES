@@ -1,0 +1,5 @@
+- **Cadena o String:** Secuencias de caracteres. Símbolos, letras, números y espacios.
+- **Listas:** Colección de datos en forma secuencial. Pueden ser de cualquier tipo de datos. Se colocan entre corchetes y separados por comas.
+- **Entero:** Número sin punto decimal.
+- **Float:** Número con punto decimal.
+- **Booleano:** True o False

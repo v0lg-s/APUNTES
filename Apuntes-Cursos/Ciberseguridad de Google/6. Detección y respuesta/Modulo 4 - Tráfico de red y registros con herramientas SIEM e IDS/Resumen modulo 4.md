@@ -1,0 +1,1 @@
+Explorará los registros y su Función en las herramientas IDS y SIEM. Aprenderá cómo funcionan estos sistemas para ayudar a los equipos de ciberseguridad a Monitorear los sistemas y Detectar actividades maliciosas. También se le presentarán algunos productos IDS y SIEM, y practicará el uso de herramientas para realizar consultas.

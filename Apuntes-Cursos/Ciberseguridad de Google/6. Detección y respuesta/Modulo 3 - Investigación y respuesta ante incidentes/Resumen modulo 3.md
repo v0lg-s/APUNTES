@@ -1,0 +1,1 @@
+Conocerá los distintos procesos y procedimientos de las fases de Detección, Investigación, Análisis y Respuesta ante incidentes. A continuación, analizará los detalles de los hash de archivos sospechosos utilizando herramientas de investigación. También aprenderá sobre la importancia de la documentación, la recogida de pruebas, el proceso de triaje y mucho más.

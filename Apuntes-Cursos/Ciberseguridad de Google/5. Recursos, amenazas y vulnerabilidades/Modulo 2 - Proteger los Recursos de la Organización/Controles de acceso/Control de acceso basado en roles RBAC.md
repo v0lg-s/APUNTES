@@ -1,0 +1,1 @@
+El RBAC se utiliza cuando la autorización viene determinada por la función de un usuario dentro de una organización. Por ejemplo, un usuario del departamento de marketing puede tener acceso a los análisis de datos de los usuarios pero no a la administración de redes.

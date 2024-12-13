@@ -1,0 +1,1 @@
+El DAC se aplica normalmente cuando el Propietario de los datos decide los niveles apropiados de accesibilidad. Un ejemplo de DAC es cuando el propietario de una carpeta de Google Drive comparte el acceso de editor, visualizador o comentarista con otra persona.

@@ -1,0 +1,1 @@
+Pondrá Python en práctica y se centrará en la automatización de tareas relacionadas con la ciberseguridad. Se le introducirá a la apertura y lectura de archivos. Después, aprenderá a analizar archivos y a estructurar su contenido. Por último, se centrará en estrategias para depurar código.

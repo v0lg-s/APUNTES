@@ -1,0 +1,1 @@
+Obtendrá una introducción al lenguaje de programación Python y cómo se utiliza Python en ciberseguridad. También explorará conceptos fundamentales de Python, incluyendo tipos de datos, variables, sentencias condicionales y sentencias iterativas.

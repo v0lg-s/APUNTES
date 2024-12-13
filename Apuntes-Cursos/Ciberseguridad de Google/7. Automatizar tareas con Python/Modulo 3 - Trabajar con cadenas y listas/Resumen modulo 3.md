@@ -1,0 +1,1 @@
+Aprenderá más opciones para trabajar con cadenas y listas en Python, y descubrirá métodos que pueden aplicarse a estos tipos de datos. Aplicará estos conocimientos para escribir un algoritmo corto. Por último, utilizará expresiones regulares para buscar patrones en cadenas.

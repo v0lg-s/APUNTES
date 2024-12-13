@@ -1,0 +1,1 @@
+Por último, explorará los tipos comunes de amenazas a la Seguridad de los recursos digitales. También examinará las herramientas y técnicas utilizadas por los ciberdelincuentes para atacar los activos. Además, se le introducirá en el proceso de Modelado de amenazas y aprenderá las formas en que los profesionales de la Seguridad se adelantan a las brechas de seguridad.

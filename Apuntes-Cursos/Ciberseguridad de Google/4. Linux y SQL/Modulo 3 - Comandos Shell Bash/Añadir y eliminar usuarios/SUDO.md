@@ -1,0 +1,4 @@
+En Linux el usuario con más privilegios es el usuario **Root** o **Super usuario**, este usuario puede modificar el sistema y ejecutar cualquier archivo. A veces es necesario que otros usuarios tengan permisos elevados de Super Usuario, esto se puede realizar de varias maneras:
+1. Iniciando sesión directamente como **Root**: Esto es una mala práctica ya que es potencialmente inseguro, por eso el inicio de sesión en el usuario Root debe estar deshabilitado.
+2. La más segura y usada es usar el comando *sudo* (Super User Do). Concede temporalmente permisos elevados a usuarios específicos.
+	1. **Nota:** No todos los usuarios de un sistema pueden convertirse en Super Usuarios, a los usuarios se les debe dar el acceso a sudo (sudo access) desde un archivo de configuración llamado **"sudoers file"**.
