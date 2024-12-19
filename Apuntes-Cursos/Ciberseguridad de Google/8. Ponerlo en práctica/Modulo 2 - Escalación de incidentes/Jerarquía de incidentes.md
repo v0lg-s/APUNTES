@@ -1,0 +1,1 @@
+No todos los incidentes tienen la misma prioridad para ser escalados. Los eventos de seguridad que pueden poner en riesgo información de alto valor para la organización son los que deben ser escalados primero.

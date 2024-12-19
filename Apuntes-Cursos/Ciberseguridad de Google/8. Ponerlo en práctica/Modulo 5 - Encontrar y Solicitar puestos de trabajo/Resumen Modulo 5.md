@@ -1,0 +1,1 @@
+Preparará su búsqueda de empleo. Explorará técnicas de preparación profesional, como la creación de un currículum, el desarrollo de un discurso de ascensor y la preparación para el proceso de entrevistas. Por último, utilizará Recursos profesionales que pueden ayudarle a encontrar y solicitar puestos de trabajo en ciberseguridad.

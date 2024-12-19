@@ -1,0 +1,1 @@
+Explorará la importancia de la priorización y la escalada de incidentes. Aprenderá cómo las decisiones que toman los profesionales de la Seguridad ayudan a mantener seguras las operaciones empresariales.

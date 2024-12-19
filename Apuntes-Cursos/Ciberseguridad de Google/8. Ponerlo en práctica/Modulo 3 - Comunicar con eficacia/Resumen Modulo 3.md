@@ -1,0 +1,1 @@
+Aprenderá sobre las partes interesadas importantes en la ciberseguridad. Además, creará comunicaciones claras y concisas para las partes interesadas.

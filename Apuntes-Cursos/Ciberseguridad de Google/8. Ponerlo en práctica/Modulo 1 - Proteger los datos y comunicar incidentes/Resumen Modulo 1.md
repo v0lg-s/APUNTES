@@ -1,0 +1,1 @@
+Reconocerá la importancia de los profesionales de la Seguridad en el lugar de trabajo. Descubrirá cómo una correcta Detección y Elevación pueden impactar en la postura de Seguridad de una organización.

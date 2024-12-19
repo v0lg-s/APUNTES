@@ -1,0 +1,1 @@
+Aprenderá a mantenerse al día sobre las últimas tendencias en ciberseguridad y explorará cómo comprometerse con la comunidad de la seguridad.

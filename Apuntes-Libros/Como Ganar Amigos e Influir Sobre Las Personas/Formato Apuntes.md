@@ -40,5 +40,13 @@ Opinión propia o conexión personal con la idea.
 
 **Acciones prácticas:** Aplicaciones concretas que puedes hacer en tu vida diaria.
 
-## Ideas clave
+- Ser un poco más concreto en tus acciones para que sean medibles. En vez de "Tomarme un momento antes de reaccionar con críticas", podrías plantear una acción específica:
+
+- "Antes de criticar, tomaré una pausa de 10 segundos y me haré la pregunta: '¿Esto es una crítica o una sugerencia constructiva?'."  
+- Las acciones concretas y medibles son más fáciles de cumplir.
+
+- Otra forma de fortalecer esta sección es dividirla en dos partes:  
+    **Acciones a corto plazo** (lo que puedes hacer hoy, mañana, esta semana).  
+    **Acciones a largo plazo** (cambios de mentalidad o hábitos que quieres desarrollar).
+
 
