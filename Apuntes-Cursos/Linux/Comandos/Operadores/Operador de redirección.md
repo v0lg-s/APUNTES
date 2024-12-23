@@ -17,5 +17,5 @@ Esto creará un archivo con el nombre "holaMundo.txt" en el directorio en el que
 - Para no sobrescribir el contenido usamos doble >>:
 
 ```bash
-echo "Hola mundo" >> holaMundo.txt
+echo "Hola mundo 2" >> holaMundo.txt
 ```

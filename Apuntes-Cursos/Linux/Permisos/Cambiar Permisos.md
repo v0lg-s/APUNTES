@@ -14,4 +14,3 @@ chmod 604 archivo.txt
 ```
 
 Esto le da permisos de lectura y escritura a user, le quita los permisos a group y le da permiso de lectura a others sobre el archivo "archivo.txt".
-

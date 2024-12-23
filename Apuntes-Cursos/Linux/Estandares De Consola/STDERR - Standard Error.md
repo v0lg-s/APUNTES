@@ -12,7 +12,7 @@ Por ejemplo,
 cat archivo_inexistente.txt 2>errores_generados.txt
 ```
 
-De esta manera, estaríamos redirigiendo los errores del comando a un archivo de texto. Podemos enviarlos también a /dev/null que es como una papelera para enviar cosas que no necesitamos. (Se borrarán instantaneamente)
+De esta manera, estaríamos redirigiendo los errores del comando a un archivo de texto. Podemos enviarlos también a /dev/null que es como una papelera para enviar cosas que no necesitamos. (Se borrarán instantáneamente)
 
 Se encuentra en la ruta /dev/stderr
 

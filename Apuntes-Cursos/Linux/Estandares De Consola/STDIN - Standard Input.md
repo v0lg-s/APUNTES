@@ -5,7 +5,7 @@ Es información recibida por el sistema operativo vía CLI.
 
 - Imaginarlo como un recipiente en el que podemos poner cosas.
 
-- Cuando usamos el operador [[Desarrollo Fotogrametría#Operador "pipe "|pipe]] el comando detrás del operador envía su salida a stdin y el comando después del operador lee los argumentos desde stdin.
+- Cuando usamos el operador [[Operador pipe|pipe]] el comando detrás del operador envía su salida a stdin y el comando después del operador lee los argumentos desde stdin.
 
 - Se encuentra en la ruta /dev/stdin
 

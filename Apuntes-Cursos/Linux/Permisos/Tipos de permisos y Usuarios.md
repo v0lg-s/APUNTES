@@ -4,7 +4,7 @@ En un **directorio**: El permiso de leer significa que el usuario puede leer tod
 
 # 2. Write/Escribir
 En un **archivo**: El permiso de escribir significa que el usuario puede modificar el contenido del archivo.
-En un **directorio**: El permiso de escribir significa que el usuario puede crear nuevos archivos en este directorio.
+En un **directorio**: El permiso de escribir significa que el usuario puede crear nuevos archivos o directorios en este directorio.
 
 # 3. Execute/Ejecutar
 En un **archivo**: El permiso de ejecutar significa que el usuario puede ejecutar un archivo si es que éste es un archivo ejecutable.
