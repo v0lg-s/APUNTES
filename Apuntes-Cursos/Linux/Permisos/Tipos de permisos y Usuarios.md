@@ -1,24 +1,31 @@
-# 1. Read/Leer
-En un **archivo**: El permiso de leer significa que el usuario puede visualizar el contenido del archivo.
-En un **directorio**: El permiso de leer significa que el usuario puede leer todos los archivos en este directorio.
+# Permisos
+## **1. Read (r)**
 
-# 2. Write/Escribir
-En un **archivo**: El permiso de escribir significa que el usuario puede modificar el contenido del archivo.
-En un **directorio**: El permiso de escribir significa que el usuario puede crear nuevos archivos o directorios en este directorio.
+- **Archivo:** Permite ver el contenido del archivo.
+- **Directorio:** Permite listar los nombres de los archivos dentro del directorio (**ls**).
 
-# 3. Execute/Ejecutar
-En un **archivo**: El permiso de ejecutar significa que el usuario puede ejecutar un archivo si es que éste es un archivo ejecutable.
-En un **directorio**: El permiso de ejecutar significa que el usuario puede acceder al directorio y acceder a sus archivos.
+## **2. Write (w)**
 
+- **Archivo:** Permite modificar, eliminar o renombrar el archivo.
+- **Directorio:** Permite crear, eliminar o renombrar archivos dentro del directorio.
+
+## **3. Execute (x)**
+
+- **Archivo:** Permite ejecutar el archivo si es un programa o script.
+- **Directorio:** Permite acceder al directorio, navegar dentro de él y abrir archivos si se conoce su nombre.
+
+**⚠️ Nota:** Para acceder a un directorio (**cd**), se necesita el permiso de **ejecución (x)**.
+
+# Usuarios
 Los permisos son dados a tres tipos de usuarios:
+## 1. Usuario/User
 
-# 1. Usuario/User
 El usuario es el dueño/creador del archivo. La propiedad de un archivo se puede cambiar.
+## 2. Grupo/Group
 
-# 2. Grupo/Group
 Cada usuario en el sistema hace parte de un grupo específico.
 Un **grupo** consiste de varios usuarios.
+## 3. Otros/Other
 
-# 3. Otros/Other
 Todos los otros usuarios del sistema, básicamente cualquier otro con acceso al sistema.
 
