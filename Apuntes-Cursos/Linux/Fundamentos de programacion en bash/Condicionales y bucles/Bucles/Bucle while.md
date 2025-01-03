@@ -12,5 +12,6 @@ contador=1
 while [ $contador -le 5 ]; do
 	echo "Contador: $contador"
 	let contador++
+done
 ```
 

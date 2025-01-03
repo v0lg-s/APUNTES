@@ -3,7 +3,7 @@ Set Group ID.
 Es de utilidad cuando varios usuarios pertenecientes a un grupo deben realizar sus tareas utilizando los recursos ubicados dentro de un mismo directorio.
 
 - El bit *SetGID* se utiliza para que un determinado proceso adquiera los privilegios del **grupo** al que ha sido asignado un fichero o directorio.
-- El bit de *SetGID* se representa por una *'s'* y se muestra en el bit de permisos de ejecución del grupo de bits de [[Tipos de permisos y Usuarios#2. Grupo/Group|Group]].
+- El bit de *SetGID* se representa por una *'s'* y se muestra en el bit de permisos de ejecución del grupo de bits de [[1. Tipos de permisos y Usuarios#2. Grupo/Group|1. Tipos de permisos y Usuarios]].
 
 **Nota:** Es aplicable tanto a ficheros como directorios.
 
