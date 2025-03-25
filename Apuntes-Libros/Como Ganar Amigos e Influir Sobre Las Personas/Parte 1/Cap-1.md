@@ -44,7 +44,7 @@ La crítica daña las relaciones interpersonales, coloca a las personas a la def
 
 - Las evidencias y conclusiones en este caso son empíricas y no requieren tanta argumentación para aceptarlas como verdad. Sin embargo, el autor provee algunos estudios de conducta.
 
-**Como resuena conmigo (Autoevaluación y acciones a tomar): ** 
+**Como resuena conmigo (Autoevaluación y acciones a tomar):** 
 - **A veces critico a las personas cuando algo no se realiza de la manera que yo creo correcta.** 
 	- Cuando tenga el impulso de criticar cosas que haga mi ma con respecto a la cocina, algo mejor es enseñarle como sería una mejor manera de realizarlo. Sin señalarle o reprocharle que lo que ella hace está mal. 
 

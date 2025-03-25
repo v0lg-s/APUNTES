@@ -1,16 +1,20 @@
 "ENSÉÑAME A NO HACER NI RECIBIR ELOGIOS BARATOS."
 **REGLA #2: DEMUESTRE APRECIO HONRADO Y SINCERO**
 
+--- 
+**Objetivo del capitulo:** Entender qué es lo que motiva a las personas a hacer algo, y cómo abordar estas motivaciones, diferenciando entre aprecio sincero y adulación.
+# Resumen
+En este capitulo se enfatiza la importancia de demostrar nuestro aprecio. A las personas las motiva un anhelo interno, el anhelo de sentirse importante y apreciado, es lo que nos diferencia de los animales y muy pocas veces es satisfecho, es por esto que el aprecio sincero puede ser un gran combustible para avivar el sentimiento en una relación o motivar a las personas a dar algo más de sí. Por otro lado, se recalca la diferencia entre el aprecio sincero y la adulación.
+
+En general el capitulo nos transmite la idea de que el refuerzo positivo (Premiar la buena conducta) funciona con mayor eficacia que castigando la mala conducta.
+
 ---
-**Solo hay un medio para conseguir que alguien haga algo**
-Que el prójimo quiera hacerlo.
-*¿Cómo?*
-Dándole lo que quiere... según el autor, citando a psicólogos como Sigmund Freud y filósofos como John Dewey, lo que más anhela el ser humano después de satisfacción sexual, salud, comida y dinero es *sentirse importante*. 
+## Ideas principales
 
-**El deseo de ser grande** para Sigmund Freud.
-**El deseo de ser importante** para John Dewey.
-
-Este anhelo pocas veces es satisfecho y es tan profundo e imperioso como el deseo de alimentarse y dormir. Nos diferencia de los animales (A un animal no le interesa sentirse importante), este deseo nos mueve como un combustible.
+- **Si queremos conseguir un cambio de parte de alguien, criticar su actuar es la peor estrategia que podemos aplicar.**
+	- El refuerzo positivo de apreciar una cosa buena motiva, porque va directo al anhelo interno de cada persona de sentirse importante.
+- **Expresar aprecio sincero = +carisma**
+	- No debemos demostrar nuestro aprecio solo cuando nos interesa conseguir algo de esa persona, el aprecio sincero es una forma de gentileza con el resto de seres humanos, es una oportunidad para alegrarle el día a una persona. 
 
 ---
 #### Nota

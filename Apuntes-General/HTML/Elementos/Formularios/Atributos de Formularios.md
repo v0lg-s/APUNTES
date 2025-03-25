@@ -1,0 +1,4 @@
+- **required:** Indica que el campo es obligatorio.
+- **type:** Tipo de input, puede ser *email*, *contraseña*, *submit*, *text* o *file*.
+- **name:** Dar identificador al input, es como declarar el nombre de la variable a la que se va a asignar el valor enviado.
+- **placeholder:** Texto informativo en los inputs.
