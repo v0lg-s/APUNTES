@@ -27,3 +27,4 @@ print(lista[0]) #para el primer elemento
 print(lista[1:3]) #Devuelve una lista desde el elemento con indice 1 hasta el 2. (1 menos que el último número del rango)
 ```
 
+- Se pueden poner indices negativos para recuperar los datos en sentido contrario (del último al primero).

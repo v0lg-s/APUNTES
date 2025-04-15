@@ -25,7 +25,7 @@ Se puede usar el comando *arp -a* para mostrar la tabla ARP.
 En esta fase la maquina que desea conocer la dirección MAC de otra crea la trama ARP y la envía preguntando por esta.
 
 - **Destino y Origen:** La trama enviada durante la fase de petición contiene en el campo de origen la dirección MAC del computador remitente y en el campo de destino se encuentra la dirección [[Broadcast y Unicast#Broadcast |broadcast]].
-- **Tipo/Longitud:** La trama ARP tendrá en este campo el valor *0x0806* que indica que se trata de una trama del tipo ARP. (*0x-* indica que el valor después de la x está en notación hexadecimal)
+- **Tipo/Longitud:** La trama Ethernet tendrá en este campo el valor *0x0806* que indica que se trata de una trama del tipo ARP. (*0x-* indica que el valor después de la x está en notación hexadecimal)
 - **Datos:** El encabezado ARP se encuentra en el espacio de los datos.
 
 ## Fase de Respuesta
@@ -43,8 +43,8 @@ En esta fase la maquina de la que se desconoce su dirección MAC envía una tram
 - **Hardware Address Lenght:** Se define el ==tamaño== de la ==dirección MAC==. En este caso 6 bytes.
 - **Protocol Address Lenght:** Se define el ==tamaño== de la ==dirección IP==. En este caso 4 bytes.
 - **Operation Code (OpCode):** Toma 2 valores dependiendo de la fase del protocolo ARP. 
-	- 1: Si es la fase de petición.
-	- 2: Si es la fase de respuesta.
+	- 1: Si es una trama del tipo request.
+	- 2: Si es una trama del tipo reply.
 
 Para el ejemplo, PC_1 se desea comunicar con PC_2 y necesita conocer su dirección MAC.
 
