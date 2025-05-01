@@ -4,7 +4,7 @@ En este tipo de descubrimiento existen tres subtipos de descubrimiento:
 2. *Descubrimiento* **TCP ACK Ping**: Envía un paquete TCP con la flag *ACK* activa al puerto 80 por defecto, se espera una respuesta con la flag *RST* activa. Si hay respuesta el host está activo.
 3. *Descubrimiento* **UDP Ping**: Envía un paquete UDP a puertos UDP que posiblemente estén cerrados. Si el puerto UDP al que se envió el paquete está cerrado el host responde con un ICMP tipo 3 de lo contario no hay respuesta. Si hay respuesta el host está activo.
 
-En los tres se pueden especificar los puertos en rangos, listas o especificos:
+En los tres se pueden especificar los puertos en rangos, listas o específicos:
 
 ```bash
 # **TCP SYN Ping**
