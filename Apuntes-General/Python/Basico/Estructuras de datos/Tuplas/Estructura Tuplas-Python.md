@@ -9,8 +9,12 @@ Es un tipo de dato en python que permite almacenar una secuencia de datos ordena
 
 ```python
 #Tuplas
-tupla = (29, True, "Cadena de texto", 3.1416)
+tupla1 = (29, True, "Cadena de texto", 3.1416)
+tupla2 = 1.0, 0.5, 0.25, 0.125
+tupla_de_un_elemento = (1, )
 ```
+
+Todas son tuplas, se pueden definir sin uso del paréntesis.
 
 **Indices**
 Para acceder a cada uno de sus elementos podemos usar la posición de cada elemento. Dentro de corchetes al igual que en las listas

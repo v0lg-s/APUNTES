@@ -16,12 +16,12 @@ Vamos a ver con el ejemplo como se realizaría el procedimiento por el "método 
 **Máscara de subred:** 
 255.255.224.0 -> 11111111.11111111.11100000.00000000
 
-Se realiza la operación AND bit a bit entre la máscara y la dirección.
+Se realiza la operación AND bit a bit entre la máscara y la dirección. ^a7c7ba
 
-$$\frac{10101100.00100001.00101011.00000101}{11111111.11111111.11100000.00000000}=10101100.00100001.00100000.00000000$$
+$$\frac{10101100.00100001.00101011.00000101}{11111111.11111111.11100000.00000000}=10101100.00100001.00100000.00000000$$ ^6c546e
 
 Convertimos el resultado a decimal: 
-10101100.00100001.00100000.00000000 -> 172.33.32.0
+10101100.00100001.00100000.00000000 -> 172.33.32.0 ^5bf495
 
 La dirección IP 172.33.43.5 pertenece a la subred:
 

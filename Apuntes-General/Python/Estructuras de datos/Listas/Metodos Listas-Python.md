@@ -1,4 +1,0 @@
-- **`lista.append(arg)`**: Agrega el elemento *'arg'* al final de la lista.
-- **`lista.count(arg)`**: Cuenta el número de repeticiones del elemento *'arg'*.
--  **`lista.index(arg)`**: Retorna el indice de la primera aparición del elemento **'arg'**.
-- **`lista.remove(arg)`**: Remueve la primera aparición del elemento **'arg'**.
