@@ -2,6 +2,8 @@ Los módulos son archivos que contienen definiciones y sentencias de python reut
 
 Cada modulo tiene entidades. Estas entidades pueden ser funciones, variables, constantes, clases y objetos, accediendo a un modulo se pueden usar cualquiera de las entidades que almacena.
 
+Los módulos a su vez se empaquetan en *paquetes.*
+
 # Importar módulos
 
 Se usa la palabra clave `import` seguida del nombre del módulo.
