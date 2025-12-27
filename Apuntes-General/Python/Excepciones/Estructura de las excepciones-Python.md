@@ -22,25 +22,23 @@ except ArithmeticError:
     print("Uuupsss...")
 ```
 
+```python
+def print_exception_tree(thisclass, nest = 0):
+    if nest > 1:
+        print("   |" * (nest - 1), end="")
+    if nest > 0:
+        print("   +---", end="")
 
-> [!NOTE] Algunas excepciones integradas abstractas
-> - ArithmeticError,
-> - BaseException
-> - BaseException,
->- LookupError.
-  
-> [!NOTE] Algunas excepciones integradas concretas
->- AssertionError,
->- ImportError,
->- IndexError,
->- KeyboardInterrupt,
->- KeyError,
->- MemoryError,
->- OverflowError.
+    print(thisclass.__name__)
+
+    for subclass in thisclass.__subclasses__():
+        print_exception_tree(subclass, nest + 1)
 
 
+print_exception_tree(BaseException)
+```
 
-
+Muestra el árbol de excepciones.
 
 
 

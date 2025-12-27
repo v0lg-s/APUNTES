@@ -1,3 +1,19 @@
+
+> [!NOTE] Algunas excepciones integradas abstractas
+> - ArithmeticError,
+> - BaseException
+> - BaseException,
+>- LookupError.
+  
+> [!NOTE] Algunas excepciones integradas concretas
+>- AssertionError,
+>- ImportError,
+>- IndexError,
+>- KeyboardInterrupt,
+>- KeyError,
+>- MemoryError,
+>- OverflowError.
+
 ## ZeroDivisionError
 
 Aparece cuando se ejecuta cualquier operación que intente dividir entre cero.

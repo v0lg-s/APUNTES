@@ -21,6 +21,17 @@ import modulo
 
 ```
 
+En [[Recordar POO | Programación Orientada a Objetos]] la variable `__name__` almacena el nombre de la clase.
+
+```python
+class Classy:
+    pass
+
+
+print(Classy.__name__)
+obj = Classy()
+print(type(obj).__name__)
+```
 
 # Variable path
 Almacena todas las ubicaciones (carpetas o directorios) que se buscan para encontrar un módulo que ha sido solicitado por la instrucción import.
