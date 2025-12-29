@@ -40,3 +40,12 @@ print(filtered)
 ```
 
 Aquí *lambda* se usa para evaluar una expresión a un conjunto de datos, como una función, pero sin ser almacenada.
+
+## Función map()
+La función *map* toma como primer argumento una función y uno o más iterables según lo que reciba la función como argumento. Map aplica la función pasada como argumento a cada uno de los elementos de los iterables.
+
+```python
+my_list = [1, 2, 3]
+foo = tuple(map(lambda x: x**x, my_list))
+print(foo)
+```
